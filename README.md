@@ -1,2 +1,2 @@
 # Learning
-This Repository will contain all my stuff I prepared while leaning new technologies
+This Repository will contain all stuff I prepared during my learning phases of a new technology.
